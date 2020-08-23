@@ -18,7 +18,7 @@ Oh, and I'm an administrator of [@SynaGames](https://github.com/SynaGames), an o
 - PHP, C# & Java for their accessibility and their object-oriented concept.
 - HTML/CSS because... uh... isn't it useful?
 - Javascript for its flexibility, development speed and ez pz production use.
-- ElectronJS because it is a great framework using the [NodeJS runtime](https://node.js.org) for running cross-platform applications .
+- ElectronJS because it is a great framework using the [NodeJS runtime](https://node.js.org) for running cross-platform applications.
 - Python for fast-scripting instead of just using batch or bash.
 - boo bootstrap's lame [@jgthms/bulma](https://github.com/jgthms/bulma) better>>>
 
