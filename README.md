@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/sysLambda?logo=twitter&logoColor=ffffff&labelColor=5D5D5D&color=A2A2A2&label=@sysLambda&style=flat)](https://twitter.com/sysLambda)
 [![GitHub](https://img.shields.io/github/followers/sysLambda.svg?logo=github&labelColor=5D5D5D&color=A2A2A2&label=/sysLambda&style=flat)](https://github.com/sysLambda)
-![Discord](https://img.shields.io/static/v1?label=&message=mehSmh%20%7C%20%CE%9B%230420&logo=discord&logoColor=ffffff&color=5D5D5D&style=flat)
+![Discord](https://img.shields.io/static/v1?label=&message=mehSmh%230420&logo=discord&logoColor=ffffff&color=5D5D5D&style=flat)
 [![E-mail](https://img.shields.io/static/v1?label=&message=hi%40syslambda.fr&color=5D5D5D&style=flat)](mailto:hi@syslambda.fr)
 
 I'm a random 14 years-old fullstack developer & tech enthusiast.\
