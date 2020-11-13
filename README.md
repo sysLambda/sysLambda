@@ -24,3 +24,7 @@ Oh, and I'm an administrator of [@SynaGames](https://github.com/SynaGames), an o
 
 #### 👯 Collaborating
 I’m looking forward to collaborating with whoever has well defined ideas ready to be put in motion together!
+
+<br />
+
+![sysLambda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sysLambda&show_icons=true)
