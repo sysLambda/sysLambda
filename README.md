@@ -27,4 +27,4 @@ I’m looking forward to collaborating with whoever has well defined ideas ready
 
 <br />
 
-![sysLambda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sysLambda&show_icons=true)
+![sysLambda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sysLambda&include_all_commits=true&show_icons=true)
