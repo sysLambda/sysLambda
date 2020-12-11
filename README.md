@@ -5,7 +5,7 @@
 ![Discord](https://img.shields.io/static/v1?label=&message=mehSmh%230420&logo=discord&logoColor=ffffff&color=5D5D5D&style=flat)
 [![E-mail](https://img.shields.io/static/v1?label=&message=hi%40syslambda.fr&color=5D5D5D&style=flat)](mailto:hi@syslambda.fr)
 
-I'm a random 14 years-old fullstack developer & tech enthusiast.\
+I'm a random 15 years-old fullstack developer & tech enthusiast.\
 I contributed to some projects such as [@Geshii](https://github.com/Geshii)'s website & [@kitsu-app](https://github.com/kitsu-app), a project that I'm currently working on.\
 I'm always trying to learn new things, such as how to use other frameworks or languages than those I often use.
 
