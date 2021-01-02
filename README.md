@@ -15,6 +15,7 @@ I love to contribute to open-source projects and make some on my own.\
 Oh, and I'm an administrator of [@SynaGames](https://github.com/SynaGames), an organization that propels some various projects. You can take a look at our [Twitter](https://twitter.com/SynaGames) *~~or our homepage @ [synagames.com](https://synagames.com)~~ (not ready yet)* to learn more.
 
 #### 🤔 What I like/dislike:
+- Java 'cause I've been creating Bukkit plugins since 2k16
 - PHP, C# & Java for their accessibility and their object-oriented concept.
 - HTML/CSS because... uh... isn't it useful?
 - Javascript for its flexibility, development speed and ez pz production use.
