@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-[![Twitter](https://img.shields.io/twitter/follow/lambdagg?logo=twitter&logoColor=ffffff&labelColor=5D5D5D&color=A2A2A2&label=@sysLambda&style=flat)](https://twitter.com/lambdagg)
-[![GitHub](https://img.shields.io/github/followers/lambdagg.svg?logo=github&labelColor=5D5D5D&color=A2A2A2&label=/sysLambda&style=flat)](https://github.com/lambdagg)
+[![Twitter](https://img.shields.io/twitter/follow/lambdagg?logo=twitter&logoColor=ffffff&labelColor=5D5D5D&color=A2A2A2&label=@lambdagg&style=flat)](https://twitter.com/lambdagg)
+[![GitHub](https://img.shields.io/github/followers/lambdagg.svg?logo=github&labelColor=5D5D5D&color=A2A2A2&label=/lambdagg&style=flat)](https://github.com/lambdagg)
 ![Discord](https://img.shields.io/static/v1?label=&message=lambdagg%230420&logo=discord&logoColor=ffffff&color=5D5D5D&style=flat)
 [![E-mail](https://img.shields.io/static/v1?label=&message=hi%40syslambda.fr&color=5D5D5D&style=flat)](mailto:hi@syslambda.fr)
 
