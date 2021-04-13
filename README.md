@@ -10,7 +10,7 @@ I contributed to some projects such as [@Geshii](https://github.com/Geshii)'s we
 I'm always trying to learn new things, such as how to use other frameworks or languages than those I often use.
 
 ### ✨ More 'bout me
-I was born around Paris and I currently am in highschool (which is pretty cool i guess... no?). I'm most of the time programming or playing some games ([here's my steam page](https://steamcommunity.com/id/lambdagg/)). I may also be cooking or tinkering.\
+I was born around Paris and I currently am in highschool. I'm most of the time programming or playing some games ([here's my steam page](https://steamcommunity.com/id/lambdagg/)). I may also be cooking or tinkering.\
 I love to contribute to open-source projects and make some on my own.\
 ~~Oh, and I'm an administrator of [@SynaGames](https://github.com/SynaGames), an organization that propels some various projects. You can take a look at our [Twitter](https://twitter.com/SynaGames) *or our homepage @ [synagames.com](https://synagames.com) (not ready yet)* to learn more.~~ (more soon about this)
 
