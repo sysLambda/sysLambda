@@ -2,22 +2,21 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/lambdagg?logo=twitter&logoColor=ffffff&labelColor=5D5D5D&color=A2A2A2&label=@lambdagg&style=flat)](https://twitter.com/lambdagg)
 [![GitHub](https://img.shields.io/github/followers/lambdagg.svg?logo=github&labelColor=5D5D5D&color=A2A2A2&label=/lambdagg&style=flat)](https://github.com/lambdagg)
-![Discord](https://img.shields.io/static/v1?label=&message=lambdagg%230420&logo=discord&logoColor=ffffff&color=5D5D5D&style=flat)
-[![E-mail](https://img.shields.io/static/v1?label=&message=hi%40syslambda.fr&color=5D5D5D&style=flat)](mailto:hi@syslambda.fr)
+![Discord](https://img.shields.io/static/v1?label=&message=lambdagg%234887&logo=discord&logoColor=ffffff&color=5D5D5D&style=flat)
+[![E-mail](https://img.shields.io/static/v1?label=&message=lambdagg@tuta.io&color=5D5D5D&style=flat)](https://jikt.im)
 
-A random 15 years-old fullstack developer & tech enthusiast.\
-I contributed to some projects such as [@Geshii](https://github.com/Geshii)'s website & [@kitsu-app](https://github.com/kitsu-app), a project that I'm currently working on.\
+stupid 15-years-old tech enthusiast.\
 I'm always trying to learn new things, such as how to use other frameworks or languages than those I often use.
 
-### ✨ More 'bout me
+### ✨ About me
 I was born around Paris and I currently am in highschool. I'm most of the time programming or playing some games ([here's my steam page](https://steamcommunity.com/id/lambdagg/)). I may also be cooking or tinkering.\
 I love to contribute to open-source projects and make some on my own.\
-~~Oh, and I'm an administrator of [@SynaGames](https://github.com/SynaGames), an organization that propels some various projects. You can take a look at our [Twitter](https://twitter.com/SynaGames) *or our homepage @ [synagames.com](https://synagames.com) (not ready yet)* to learn more.~~ (more soon about this)
+I write stupid software as a part of [@jiktim](/jiktim). jiktim. everything jik.
 
-#### 🤔 What I like/dislike:
-- PHP, C# & Java for their accessibility and their object-oriented concept.
-- HTML/CSS because... uh... isn't it useful?
-- Javascript for its flexibility, development speed and ez pz production use.
+#### 🤔 Technologies and programming language
+- C#, Java & TypeScript for their accessibility and object-oriented concept.
+- HTML/CSS because... uh... writing websites without is hard.
+- JS for its flexibility, development speed and ez pz deployment. TS is still better though.
 - ElectronJS because it is a great framework using the [NodeJS runtime](https://node.js.org) for running cross-platform applications.
 - Python for fast-scripting instead of just using batch or bash.
 - boo bootstrap's lame [@jgthms/bulma](https://github.com/jgthms/bulma) better>>>
@@ -26,5 +25,3 @@ I love to contribute to open-source projects and make some on my own.\
 I’m looking forward to collaborating with whoever has well defined ideas ready to be put in motion together!
 
 <br />
-
-![LambdaGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambdagg&include_all_commits=true&show_icons=true)
