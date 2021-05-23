@@ -11,7 +11,7 @@ I'm always trying to learn new things, such as how to use other frameworks or la
 ### ✨ About me
 I was born around Paris and I currently am in highschool. I'm most of the time programming or playing some games ([here's my steam page](https://steamcommunity.com/id/lambdagg/)). I may also be cooking or tinkering.\
 I love to contribute to open-source projects and make some on my own.\
-I write stupid software as a part of [@jiktim](/jiktim). jiktim. everything jik.
+I write stupid software as a part of [@jiktim](https://github.com/jiktim). jiktim. everything jik.
 
 #### 🤔 Technologies and programming language
 - C#, Java & TypeScript for their accessibility and object-oriented concept.
