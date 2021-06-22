@@ -4,6 +4,7 @@
 [![GitHub](https://img.shields.io/github/followers/lambdagg.svg?logo=github&labelColor=5D5D5D&color=A2A2A2&label=/lambdagg&style=flat)](https://github.com/lambdagg)
 ![Discord](https://img.shields.io/static/v1?label=&message=lambdagg%234887&logo=discord&logoColor=ffffff&color=5D5D5D&style=flat)
 [![E-mail](https://img.shields.io/static/v1?label=&message=lambda@jikt.im&color=5D5D5D&style=flat)](https://jikt.im)
+[![Emergency e-mail](https://img.shields.io/static/v1?label=&message=lambdagg@tuta.io&color=5D5D5D&style=flat)](mailto:lambdagg@tuta.io)
 
 stupid 15-years-old tech enthusiast. they/them\
 I'm always trying to learn new things, such as how to use other frameworks or languages than those I often use.
